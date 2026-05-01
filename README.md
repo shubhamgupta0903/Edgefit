@@ -165,7 +165,4 @@ The LLaMA3 7B model was fine-tuned using QLoRA (4-bit quantization) on a custom 
 
 ---
 
-## Author
 
-**Shubham Gupta**  
-[GitHub](https://github.com/shubhamgupta0903) · [LinkedIn](https://linkedin.com/in/shubhamgupta0903)
